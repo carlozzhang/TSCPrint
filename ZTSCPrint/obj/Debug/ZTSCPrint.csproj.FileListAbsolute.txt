@@ -1,0 +1,7 @@
+C:\Users\zhacar01\IBM Connections sync\Encrydoc\SourceCode\Dotnet\ZTSCPrint\ZTSCPrint\bin\Debug\ZTSCPrint.exe
+C:\Users\zhacar01\IBM Connections sync\Encrydoc\SourceCode\Dotnet\ZTSCPrint\ZTSCPrint\bin\Debug\ZTSCPrint.pdb
+C:\Users\zhacar01\IBM Connections sync\Encrydoc\SourceCode\Dotnet\ZTSCPrint\ZTSCPrint\obj\Debug\ZTSCPrint.csprojResolveAssemblyReference.cache
+C:\Users\zhacar01\IBM Connections sync\Encrydoc\SourceCode\Dotnet\ZTSCPrint\ZTSCPrint\obj\Debug\ZTSCPrint.exe
+C:\Users\zhacar01\IBM Connections sync\Encrydoc\SourceCode\Dotnet\ZTSCPrint\ZTSCPrint\obj\Debug\ZTSCPrint.pdb
+C:\Users\zhacar01\IBM Connections sync\Encrydoc\SourceCode\Dotnet\ZTSCPrint\TSCPrint\ZTSCPrint\obj\Debug\ZTSCPrint.exe
+C:\Users\zhacar01\IBM Connections sync\Encrydoc\SourceCode\Dotnet\ZTSCPrint\TSCPrint\ZTSCPrint\obj\Debug\ZTSCPrint.pdb
